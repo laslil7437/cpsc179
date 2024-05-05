@@ -3,7 +3,9 @@
 The BZ chemical oscillator can be modeled as a 3-chemical reaction-diffusion system, based on the following chemical equations: 
 
 A+B -> 2A, at a rate of 𝛼
+
 B+C -> 2B, at a rate of 𝛽
+
 C+A -> 2C, at a rate of 𝛾
 
 My goal was to create interesting patterns beyond the spiral waves and concentric rings of the basic BZ model. While I initially thought I could do this purely with interactive features, such as allowing the user to add more chemicals, adjust the chemical concentrations, and adjust the reaction rates, these did not always produce the most interesting results. In particular, the system would often revert to the basic patterns very quickly. While I did implement at least some version of every proposed model/feature, I have not included videos of them here. 
