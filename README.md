@@ -1,5 +1,4 @@
-# CPSC179
-Final Project for CPSC 179, Belousov-Zhabotinsky Reaction
+# CPSC 179 Final Project: Belousov-Zhabotinsky Reaction
 
 The BZ chemical oscillator can be modeled as a 3-chemical reaction-diffusion system, based on the following chemical equations: 
 
